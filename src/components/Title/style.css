@@ -1,0 +1,15 @@
+.title-conteiner{
+    position: relative;
+    z-index: 1;
+}
+.title h1{
+    font-weight: 200;
+    color: gold;
+}
+.title span{
+    font-weight: 700;
+    color: red;
+}
+.title p{
+    font-family: Arial, Helvetica, sans-serif;
+}

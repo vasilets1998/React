@@ -1,0 +1,32 @@
+.test{
+    border-bottom: 1px solid white;
+    border-radius: 100%;
+    margin:10px;
+
+}
+button{
+    width: 150px;
+    height: 50px;
+    border: 0;
+    background-color: teal;
+    border-radius: 7px;
+}
+.submite{
+    margin-right: 5px;
+    width: 100px;
+    height: 40px;
+    border: 0;
+    background-color:teal;
+    border-radius: 7px;
+    
+}
+.clearForm{
+    margin-left: 5px;
+    width: 100px;
+    height: 40px;
+    background-color: maroon;
+}
+
+.submite:hover,button:hover{
+    background-color: tomato;
+}
